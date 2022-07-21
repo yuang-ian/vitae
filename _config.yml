@@ -7,7 +7,7 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: https://yuang-ian.github.io/
+url: https://yuang-ian.github.io/vitae
 author: Yuang Shi
 
 # edit this section with your information
@@ -18,8 +18,8 @@ title: Yuang Shi's Resume
 name: Yuang Shi
 email: yuangshi@u.nus.edu
 email_full: mailto:yuangshi@u.nus.edu
-# website: github.io/sustain
-# website_full: https://jekyllt.github.io/sustain
+website: Homepage
+website_full: https://yuang-ian.github.io/
 github: Shiyuang-scu
 twitter: YoI1ZRL7iDJf2xx
 # tel: +44 0000 000000
