@@ -7,7 +7,7 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: https://yuang-ian.github.io/vitae
+url: https://yuang-ian.github.io/
 author: Yuang Shi
 
 # edit this section with your information
