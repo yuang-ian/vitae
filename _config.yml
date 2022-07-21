@@ -7,8 +7,8 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-# url: http://jekyllt.github.io/vitae
-# author: Fábio Madeira
+url: https://yuang-ian.github.io/vitae
+author: Yuang Shi
 
 # edit this section with your information
 # jekyllt.github.io - all contents run on /vitae/
